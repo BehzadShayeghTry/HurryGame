@@ -5,9 +5,12 @@ this was a simple innovative game running in console that I wrote voluntary and 
 
 ![Alt text](./readme.PNG?raw=true "Game Environment")
 
-Requirements : 
+Requirements :
+
     conio.h is a MS-DOS specific header file [+].
+
     windows.h is a Windows-specific header file, too [+].
+
 
 Contributors :
   - Behzad Shayegh
