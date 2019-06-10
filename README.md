@@ -7,9 +7,9 @@ this was a simple innovative game running in console that I wrote voluntary and 
 
 Requirements :
 
-    conio.h is a MS-DOS specific header file [+](https://en.wikipedia.org/wiki/Windows.h).
+    conio.h is a MS-DOS specific header file [[https://en.wikipedia.org/wiki/Windows.h]].
 
-    windows.h is a Windows-specific header file, too [+](https://en.wikipedia.org/wiki/Conio.h).
+    windows.h is a Windows-specific header file, too [[https://en.wikipedia.org/wiki/Conio.h]].
 
 
 Contributors :
