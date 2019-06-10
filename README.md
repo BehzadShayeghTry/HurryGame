@@ -1,5 +1,5 @@
 # HurryGame
-Computer Programming - UT ES - Spring 97 - As TA
+Computer Programming - UT ES - Spring 2018 - As TA
 
 this was a simple innovative game running in console that I wrote voluntary and it was start of my long path. Because of that, Dr.Karimian chosen me as Teacher Assistant for computer programming course.
 
